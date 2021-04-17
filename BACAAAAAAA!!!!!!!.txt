@@ -11,3 +11,5 @@
 
 user		  : superadmin
 pass		  : superadmin
+
+testing program	: php 7.2
